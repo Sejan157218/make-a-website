@@ -1,0 +1,16 @@
+.frame-div{
+    width: 26rem;
+    height: 5.68rem;
+    margin-bottom: 10px;
+}
+
+.progress-bar{
+    background-color: #13A2E2;
+}
+.progress-btn{
+    color: #13A2E2;
+    border: none;
+    background-color: #fff;
+    margin: 0px;
+    padding: 0px;
+}

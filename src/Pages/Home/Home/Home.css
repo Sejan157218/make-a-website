@@ -1,0 +1,9 @@
+.text-color{
+    color: #13A2E2;
+}
+.disable-btn{
+    color: #E8E8E8;
+}
+.active{
+    border:2px solid #13A2E2;
+}
